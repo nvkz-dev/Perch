@@ -2172,3 +2172,1255 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.31-12.34.27:562][ 39]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.652
 [2020.03.31-12.34.27:600][ 39]AssetCheck: New page: Asset Save: 2DSideScrollerExampleMap
 [2020.03.31-12.34.27:600][ 39]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2020.03.31-12.39.04:013][919]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-12.39.04:300][920]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-12.39.04:973][921]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-12.39.04:973][921]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-12.39.04:973][921]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-12.39.05:063][922]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-12.39.05:372][923]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-12.43.42:067][745]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.03.31-13.21.50:401][578]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.31-13.21.50:442][578]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.21.50:442][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.31-13.21.50:442][578]PIE: New page: PIE session: 2DSideScrollerExampleMap (1 апр. 2020 г., 03:21:50)
+[2020.03.31-13.21.50:442][578]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.31-13.21.50:448][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006096s)
+[2020.03.31-13.21.50:450][578]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.03.31-13.21.50:450][578]LogPlayLevel: PIE: World Init took: (0.001359s)
+[2020.03.31-13.21.50:450][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.007613s)
+[2020.03.31-13.21.50:637][578]LogUObjectHash: Compacting FUObjectHashTables data took   8.26ms
+[2020.03.31-13.21.50:651][578]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.31-13.21.50:651][578]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.31-13.21.50:651][578]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.31-13.21.50:652][578]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.31-13.21.50:652][578]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.31-13.21.50:652][578]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.31-13.21.50:652][578]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.31-13.21.50:652][578]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.31-13.21.50:652][578]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.31-13.21.50:652][578]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.31-13.21.50:672][578]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.31-13.21.50:672][578]LogAudioMixer: Display: Name: Динамики (Realtek High Definition Audio)
+[2020.03.31-13.21.50:672][578]LogAudioMixer: Display: Is Default: Yes
+[2020.03.31-13.21.50:672][578]LogAudioMixer: Display: Sample Rate: 192000
+[2020.03.31-13.21.50:672][578]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.31-13.21.50:672][578]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.31-13.21.50:672][578]LogAudioMixer: Display: Channel Order:
+[2020.03.31-13.21.50:672][578]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.31-13.21.50:672][578]LogAudioMixer: Display: 1: FrontRight
+[2020.03.31-13.21.50:689][578]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.03.31-13.21.50:692][578]LogInit: FAudioDevice initialized.
+[2020.03.31-13.21.50:704][578]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.03.31-13.21.50:706][578]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.03.31-20.21.50
+[2020.03.31-13.21.50:708][578]LogWorld: Bringing up level for play took: 0.002879
+[2020.03.31-13.21.50:709][578]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.03.31-13.21.50:711][578]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0,526
+[2020.03.31-13.21.50:712][578]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.21.59:426][617]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.22.02:735][ 14]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.22.07:484][581]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.22.09:986][878]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.22.10:444][933]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.22.18:577][907]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.22.18:577][907]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.22.19:577][ 27]LogNet: Browse: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2020.03.31-13.22.19:577][ 27]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2020.03.31-13.22.19:577][ 27]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.31-13.22.19:577][ 27]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-13.22.19:578][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-13.22.19:578][ 27]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.22.19:772][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   6.96ms
+[2020.03.31-13.22.19:776][ 27]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.31-13.22.19:781][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004953s)
+[2020.03.31-13.22.19:782][ 27]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.03.31-13.22.19:782][ 27]LogPlayLevel: PIE: World Init took: (0.001275s)
+[2020.03.31-13.22.19:782][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006392s)
+[2020.03.31-13.22.19:783][ 27]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.03.31-13.22.19:785][ 27]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.03.31-20.22.19
+[2020.03.31-13.22.19:787][ 27]LogWorld: Bringing up level for play took: 0.003393
+[2020.03.31-13.22.19:788][ 27]LogLoad: Took 0.211408 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap)
+[2020.03.31-13.22.22:553][353]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.22.23:936][519]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.22.24:011][528]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.22.24:036][531]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.22.24:644][604]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.22.27:528][947]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.22.27:545][949]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.22.27:762][975]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.22.40:891][524]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.22.40:891][524]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.22.41:895][643]LogNet: Browse: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2020.03.31-13.22.41:895][643]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2020.03.31-13.22.41:895][643]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.31-13.22.41:895][643]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-13.22.41:895][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-13.22.41:915][643]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.31-13.22.41:935][643]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.31-13.22.42:128][643]LogUObjectHash: Compacting FUObjectHashTables data took   5.97ms
+[2020.03.31-13.22.42:130][643]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.31-13.22.42:135][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004961s)
+[2020.03.31-13.22.42:136][643]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.03.31-13.22.42:137][643]LogPlayLevel: PIE: World Init took: (0.001255s)
+[2020.03.31-13.22.42:137][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006367s)
+[2020.03.31-13.22.42:137][643]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.03.31-13.22.42:138][643]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.03.31-20.22.42
+[2020.03.31-13.22.42:140][643]LogWorld: Bringing up level for play took: 0.002676
+[2020.03.31-13.22.42:142][643]LogLoad: Took 0.247168 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap)
+[2020.03.31-13.22.42:214][651]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.22.42:239][654]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.22.43:297][781]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.22.43:989][864]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.22.45:849][ 87]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.22.46:023][108]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.22.46:048][111]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.22.46:573][174]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.22.49:413][512]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.22.49:446][516]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.23.02:437][ 72]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.23.02:437][ 72]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.03:437][192]LogNet: Browse: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2020.03.31-13.23.03:437][192]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2020.03.31-13.23.03:437][192]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.31-13.23.03:438][192]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-13.23.03:438][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-13.23.03:438][192]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.23.03:619][192]LogUObjectHash: Compacting FUObjectHashTables data took   5.97ms
+[2020.03.31-13.23.03:622][192]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.31-13.23.03:627][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004926s)
+[2020.03.31-13.23.03:628][192]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.03.31-13.23.03:629][192]LogPlayLevel: PIE: World Init took: (0.001273s)
+[2020.03.31-13.23.03:629][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006356s)
+[2020.03.31-13.23.03:629][192]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.03.31-13.23.03:631][192]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.03.31-20.23.03
+[2020.03.31-13.23.03:632][192]LogWorld: Bringing up level for play took: 0.002788
+[2020.03.31-13.23.03:634][192]LogLoad: Took 0.196874 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap)
+[2020.03.31-13.23.08:749][802]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.23.11:866][176]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.23.12:433][244]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.23.12:725][279]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.23.12:910][300]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.23.13:052][317]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.23.13:261][342]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.23.13:419][361]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.23.13:619][385]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.23.13:794][406]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.23.13:794][406]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.13:802][407]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.13:810][408]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.13:819][409]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.13:827][410]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.13:835][411]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.13:843][412]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.13:852][413]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.13:860][414]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.13:869][415]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.13:877][416]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.13:885][417]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.13:969][427]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.23.13:969][427]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.13:977][428]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.13:985][429]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.13:993][430]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:002][431]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:010][432]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:019][433]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:027][434]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:035][435]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:043][436]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:052][437]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:060][438]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:069][439]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:077][440]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:135][447]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.23.14:135][447]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:143][448]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:152][449]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:160][450]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:169][451]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:177][452]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:185][453]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:193][454]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:202][455]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:210][456]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:218][457]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:227][458]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:235][459]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:352][473]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.23.14:352][473]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:360][474]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:368][475]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:377][476]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:385][477]LogBlueprintUserMessages: [PerchCharacter_C_0] you dead
+[2020.03.31-13.23.14:793][526]LogNet: Browse: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2020.03.31-13.23.14:794][526]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2020.03.31-13.23.14:794][526]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.31-13.23.14:794][526]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-13.23.14:794][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-13.23.14:795][526]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.23.14:950][526]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2020.03.31-13.23.14:952][526]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.31-13.23.14:957][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005213s)
+[2020.03.31-13.23.14:959][526]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.03.31-13.23.14:959][526]LogPlayLevel: PIE: World Init took: (0.001331s)
+[2020.03.31-13.23.14:959][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006697s)
+[2020.03.31-13.23.14:959][526]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.03.31-13.23.14:961][526]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.03.31-20.23.14
+[2020.03.31-13.23.14:962][526]LogWorld: Bringing up level for play took: 0.002710
+[2020.03.31-13.23.14:964][526]LogLoad: Took 0.170513 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap)
+[2020.03.31-13.23.43:948][972]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.23.45:248][128]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.23.49:108][589]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.23.56:031][419]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.24.50:107][868]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.24.50:125][868]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.03.31-13.24.50:145][868]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.03.31-13.24.50:145][868]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.24.50:146][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-13.24.50:146][868]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.31-13.24.50:146][868]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.24.50:146][868]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-13.24.50:146][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-13.24.50:156][868]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.31-13.24.50:156][868]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.24.50:164][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-13.24.50:351][868]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.24.50:355][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-13.24.50:362][868]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2020.03.31-13.24.50:396][869]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.03.31-13.25.51:298][793]BlueprintLog: New page: Compile PerchCharacter
+[2020.03.31-13.25.51:893][793]LogUObjectHash: Compacting FUObjectHashTables data took   8.17ms
+[2020.03.31-13.25.52:329][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/PerchCharacter" FILE="../../../../../project/Perch2.0/Content/2DSideScrollerBP/Blueprints/PerchCharacter.uasset" SILENT=true
+[2020.03.31-13.25.52:461][814]LogSavePackage: Moving '../../../../../project/Perch2.0/Saved/PerchCharacter4E4570E446F3E6EB31FBCE8EE3857183.tmp' to '../../../../../project/Perch2.0/Content/2DSideScrollerBP/Blueprints/PerchCharacter.uasset'
+[2020.03.31-13.25.52:487][814]AssetCheck: New page: Asset Save: PerchCharacter
+[2020.03.31-13.25.52:487][814]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/PerchCharacter.PerchCharacter
+[2020.03.31-13.25.53:838][916]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.31-13.25.53:875][916]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.25.53:875][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.31-13.25.53:875][916]PIE: New page: PIE session: 2DSideScrollerExampleMap (1 апр. 2020 г., 03:25:53)
+[2020.03.31-13.25.53:875][916]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.31-13.25.53:880][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004866s)
+[2020.03.31-13.25.53:882][916]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.03.31-13.25.53:882][916]LogPlayLevel: PIE: World Init took: (0.001317s)
+[2020.03.31-13.25.53:882][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006324s)
+[2020.03.31-13.25.54:072][916]LogUObjectHash: Compacting FUObjectHashTables data took   9.47ms
+[2020.03.31-13.25.54:073][916]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.31-13.25.54:073][916]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.31-13.25.54:073][916]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.31-13.25.54:073][916]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.31-13.25.54:073][916]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.31-13.25.54:073][916]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.31-13.25.54:073][916]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.31-13.25.54:073][916]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.31-13.25.54:074][916]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.31-13.25.54:074][916]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.31-13.25.54:093][916]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.31-13.25.54:093][916]LogAudioMixer: Display: Name: Динамики (Realtek High Definition Audio)
+[2020.03.31-13.25.54:093][916]LogAudioMixer: Display: Is Default: Yes
+[2020.03.31-13.25.54:093][916]LogAudioMixer: Display: Sample Rate: 192000
+[2020.03.31-13.25.54:093][916]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.31-13.25.54:093][916]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.31-13.25.54:093][916]LogAudioMixer: Display: Channel Order:
+[2020.03.31-13.25.54:093][916]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.31-13.25.54:093][916]LogAudioMixer: Display: 1: FrontRight
+[2020.03.31-13.25.54:110][916]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.03.31-13.25.54:113][916]LogInit: FAudioDevice initialized.
+[2020.03.31-13.25.54:119][916]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.03.31-13.25.54:121][916]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.03.31-20.25.54
+[2020.03.31-13.25.54:122][916]LogWorld: Bringing up level for play took: 0.002813
+[2020.03.31-13.25.54:123][916]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2020.03.31-13.25.54:125][916]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0,888
+[2020.03.31-13.25.54:126][916]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.26.09:312][222]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.26.09:312][222]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.26.09:312][222]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.26.09:312][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-13.26.09:312][222]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.31-13.26.09:312][222]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.26.09:313][222]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-13.26.09:313][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-13.26.09:326][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.31-13.26.09:326][222]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.26.09:334][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-13.26.09:493][222]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.26.09:497][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-13.26.09:505][222]LogUObjectHash: Compacting FUObjectHashTables data took   6.45ms
+[2020.03.31-13.26.09:534][223]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2020.03.31-13.26.21:276][213]BlueprintLog: New page: Compile PerchCharacter
+[2020.03.31-13.26.21:870][213]LogUObjectHash: Compacting FUObjectHashTables data took   8.33ms
+[2020.03.31-13.26.22:058][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/PerchCharacter" FILE="../../../../../project/Perch2.0/Content/2DSideScrollerBP/Blueprints/PerchCharacter.uasset" SILENT=true
+[2020.03.31-13.26.22:154][215]LogSavePackage: Moving '../../../../../project/Perch2.0/Saved/PerchCharacter4CCD66A84652E23C71B617BBA6EAB891.tmp' to '../../../../../project/Perch2.0/Content/2DSideScrollerBP/Blueprints/PerchCharacter.uasset'
+[2020.03.31-13.26.22:172][215]AssetCheck: New page: Asset Save: PerchCharacter
+[2020.03.31-13.26.22:172][215]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/PerchCharacter.PerchCharacter
+[2020.03.31-13.26.23:567][315]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.31-13.26.23:598][315]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.26.23:598][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.31-13.26.23:599][315]PIE: New page: PIE session: 2DSideScrollerExampleMap (1 апр. 2020 г., 03:26:23)
+[2020.03.31-13.26.23:599][315]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.31-13.26.23:604][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004942s)
+[2020.03.31-13.26.23:605][315]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.03.31-13.26.23:605][315]LogPlayLevel: PIE: World Init took: (0.001245s)
+[2020.03.31-13.26.23:605][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006326s)
+[2020.03.31-13.26.23:777][315]LogUObjectHash: Compacting FUObjectHashTables data took   9.15ms
+[2020.03.31-13.26.23:777][315]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.31-13.26.23:777][315]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.31-13.26.23:778][315]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.31-13.26.23:778][315]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.31-13.26.23:778][315]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.31-13.26.23:778][315]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.31-13.26.23:778][315]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.31-13.26.23:778][315]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.31-13.26.23:778][315]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.31-13.26.23:778][315]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.31-13.26.23:797][315]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.31-13.26.23:797][315]LogAudioMixer: Display: Name: Динамики (Realtek High Definition Audio)
+[2020.03.31-13.26.23:797][315]LogAudioMixer: Display: Is Default: Yes
+[2020.03.31-13.26.23:797][315]LogAudioMixer: Display: Sample Rate: 192000
+[2020.03.31-13.26.23:797][315]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.31-13.26.23:797][315]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.31-13.26.23:797][315]LogAudioMixer: Display: Channel Order:
+[2020.03.31-13.26.23:797][315]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.31-13.26.23:797][315]LogAudioMixer: Display: 1: FrontRight
+[2020.03.31-13.26.23:815][315]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.03.31-13.26.23:817][315]LogInit: FAudioDevice initialized.
+[2020.03.31-13.26.23:827][315]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.03.31-13.26.23:829][315]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.03.31-20.26.23
+[2020.03.31-13.26.23:831][315]LogWorld: Bringing up level for play took: 0.002874
+[2020.03.31-13.26.23:831][315]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.03.31-13.26.23:834][315]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0,597
+[2020.03.31-13.26.23:834][315]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.28.04:564][ 86]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.28.04:564][ 86]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.28.04:564][ 86]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.28.04:564][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-13.28.04:564][ 86]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.31-13.28.04:564][ 86]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.28.04:564][ 86]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-13.28.04:565][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-13.28.04:575][ 86]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.31-13.28.04:575][ 86]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.28.04:593][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-13.28.04:755][ 86]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.28.04:759][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-13.28.04:766][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2020.03.31-13.28.04:801][ 87]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.03.31-13.28.11:583][639]BlueprintLog: New page: Compile PerchCharacter
+[2020.03.31-13.28.12:162][639]LogUObjectHash: Compacting FUObjectHashTables data took   8.28ms
+[2020.03.31-13.28.12:451][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/PerchCharacter" FILE="../../../../../project/Perch2.0/Content/2DSideScrollerBP/Blueprints/PerchCharacter.uasset" SILENT=true
+[2020.03.31-13.28.12:548][649]LogSavePackage: Moving '../../../../../project/Perch2.0/Saved/PerchCharacterF2F8B0E64349165FF52CF7A9CCD46957.tmp' to '../../../../../project/Perch2.0/Content/2DSideScrollerBP/Blueprints/PerchCharacter.uasset'
+[2020.03.31-13.28.12:565][649]AssetCheck: New page: Asset Save: PerchCharacter
+[2020.03.31-13.28.12:565][649]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/PerchCharacter.PerchCharacter
+[2020.03.31-13.28.33:403][134]LogTexture: Display: Building textures: hit__19_ (BGRA8, 527X470)
+[2020.03.31-13.28.33:403][134]LogTexture: Display: Building textures: hit__16_ (BGRA8, 527X470)
+[2020.03.31-13.28.33:403][134]LogTexture: Display: Building textures: hit__18_ (BGRA8, 527X470)
+[2020.03.31-13.28.33:403][134]LogTexture: Display: Building textures: hit__17_ (BGRA8, 527X470)
+[2020.03.31-13.28.33:403][134]LogTexture: Display: Building textures: hit__20_ (BGRA8, 527X470)
+[2020.03.31-13.28.33:998][134]LogTexture: Display: Building textures: hit__13_ (BGRA8, 527X470)
+[2020.03.31-13.28.33:998][134]LogTexture: Display: Building textures: hit__10_ (BGRA8, 527X470)
+[2020.03.31-13.28.33:998][134]LogTexture: Display: Building textures: hit__31_ (BGRA8, 527X470)
+[2020.03.31-13.28.33:998][134]LogTexture: Display: Building textures: hit__30_ (BGRA8, 527X470)
+[2020.03.31-13.28.33:998][134]LogTexture: Display: Building textures: hit__28_ (BGRA8, 527X470)
+[2020.03.31-13.28.33:998][134]LogTexture: Display: Building textures: hit__27_ (BGRA8, 527X470)
+[2020.03.31-13.28.33:998][134]LogTexture: Display: Building textures: hit__26_ (BGRA8, 527X470)
+[2020.03.31-13.28.33:998][134]LogTexture: Display: Building textures: hit__29_ (BGRA8, 527X470)
+[2020.03.31-13.28.33:999][134]LogTexture: Display: Building textures: hit__25_ (BGRA8, 527X470)
+[2020.03.31-13.28.33:999][134]LogTexture: Display: Building textures: hit__24_ (BGRA8, 527X470)
+[2020.03.31-13.28.33:999][134]LogTexture: Display: Building textures: hit__23_ (BGRA8, 527X470)
+[2020.03.31-13.28.33:999][134]LogTexture: Display: Building textures: hit__21_ (BGRA8, 527X470)
+[2020.03.31-13.28.33:999][134]LogTexture: Display: Building textures: hit__15_ (BGRA8, 527X470)
+[2020.03.31-13.28.33:999][134]LogTexture: Display: Building textures: hit__14_ (BGRA8, 527X470)
+[2020.03.31-13.28.33:999][134]LogTexture: Display: Building textures: hit__22_ (BGRA8, 527X470)
+[2020.03.31-13.28.33:999][134]LogTexture: Display: Building textures: hit__11_ (BGRA8, 527X470)
+[2020.03.31-13.28.33:999][134]LogTexture: Display: Building textures: hit__12_ (BGRA8, 527X470)
+[2020.03.31-13.29.00:448][968]LogUObjectHash: Compacting FUObjectHashTables data took   9.09ms
+[2020.03.31-13.29.00:459][968]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.192
+[2020.03.31-13.29.00:461][968]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/PerchCharacter] ([1] browsable assets)...
+[2020.03.31-13.29.00:461][968]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/PerchCharacter]
+[2020.03.31-13.29.00:589][968]LogSavePackage: Moving '../../../../../project/Perch2.0/Saved/PerchCharacter_Auto11C281C6F4B1F37C5B72A5CB70032FB05.tmp' to '../../../../../project/Perch2.0/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/PerchCharacter_Auto1.uasset'
+[2020.03.31-13.29.00:590][968]LogFileHelpers: Auto-saving content packages took 0.129
+[2020.03.31-13.33.02:893][186]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.31-13.33.02:899][186]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.31-13.33.18:523][322]BlueprintLog: New page: Compile PerchCharacter
+[2020.03.31-13.33.19:126][322]LogUObjectHash: Compacting FUObjectHashTables data took   8.46ms
+[2020.03.31-13.39.40:257][348]BlueprintLog: New page: Compile PerchCharacter
+[2020.03.31-13.39.40:862][348]LogUObjectHash: Compacting FUObjectHashTables data took  10.16ms
+[2020.03.31-13.39.41:552][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/PerchCharacter" FILE="../../../../../project/Perch2.0/Content/2DSideScrollerBP/Blueprints/PerchCharacter.uasset" SILENT=true
+[2020.03.31-13.39.41:667][369]LogSavePackage: Moving '../../../../../project/Perch2.0/Saved/PerchCharacterCCA02ACA47480D5F08AA928EF5AD1FB2.tmp' to '../../../../../project/Perch2.0/Content/2DSideScrollerBP/Blueprints/PerchCharacter.uasset'
+[2020.03.31-13.39.41:685][369]AssetCheck: New page: Asset Save: PerchCharacter
+[2020.03.31-13.39.41:685][369]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/PerchCharacter.PerchCharacter
+[2020.03.31-13.39.42:984][422]LogEditorViewport: Clicking Background
+[2020.03.31-13.39.43:700][447]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.31-13.39.43:731][447]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.39.43:732][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.31-13.39.43:732][447]PIE: New page: PIE session: 2DSideScrollerExampleMap (1 апр. 2020 г., 03:39:43)
+[2020.03.31-13.39.43:732][447]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.31-13.39.43:737][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004901s)
+[2020.03.31-13.39.43:738][447]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.03.31-13.39.43:738][447]LogPlayLevel: PIE: World Init took: (0.001238s)
+[2020.03.31-13.39.43:738][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006282s)
+[2020.03.31-13.39.43:908][447]LogUObjectHash: Compacting FUObjectHashTables data took   9.34ms
+[2020.03.31-13.39.43:909][447]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.31-13.39.43:909][447]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.31-13.39.43:909][447]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.31-13.39.43:909][447]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.31-13.39.43:909][447]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.31-13.39.43:909][447]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.31-13.39.43:909][447]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.31-13.39.43:909][447]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.31-13.39.43:910][447]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.31-13.39.43:910][447]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.31-13.39.43:928][447]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.31-13.39.43:928][447]LogAudioMixer: Display: Name: Динамики (Realtek High Definition Audio)
+[2020.03.31-13.39.43:928][447]LogAudioMixer: Display: Is Default: Yes
+[2020.03.31-13.39.43:928][447]LogAudioMixer: Display: Sample Rate: 192000
+[2020.03.31-13.39.43:928][447]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.31-13.39.43:928][447]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.31-13.39.43:928][447]LogAudioMixer: Display: Channel Order:
+[2020.03.31-13.39.43:928][447]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.31-13.39.43:928][447]LogAudioMixer: Display: 1: FrontRight
+[2020.03.31-13.39.43:946][447]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.03.31-13.39.43:949][447]LogInit: FAudioDevice initialized.
+[2020.03.31-13.39.43:955][447]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.03.31-13.39.43:957][447]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.03.31-20.39.43
+[2020.03.31-13.39.43:959][447]LogWorld: Bringing up level for play took: 0.002894
+[2020.03.31-13.39.43:960][447]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.03.31-13.39.43:962][447]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0,726
+[2020.03.31-13.39.43:963][447]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.39.50:738][743]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.39.50:738][743]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.39.50:738][743]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.39.50:739][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-13.39.50:739][743]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.31-13.39.50:739][743]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.39.50:739][743]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-13.39.50:739][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-13.39.50:749][743]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.31-13.39.50:749][743]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.39.50:756][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-13.39.50:949][743]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.39.50:953][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-13.39.50:961][743]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2020.03.31-13.39.51:007][744]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.03.31-13.40.38:660][883]BlueprintLog: New page: Compile PerchCharacter
+[2020.03.31-13.40.39:286][883]LogUObjectHash: Compacting FUObjectHashTables data took   8.25ms
+[2020.03.31-13.40.39:713][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/PerchCharacter" FILE="../../../../../project/Perch2.0/Content/2DSideScrollerBP/Blueprints/PerchCharacter.uasset" SILENT=true
+[2020.03.31-13.40.39:832][914]LogSavePackage: Moving '../../../../../project/Perch2.0/Saved/PerchCharacter43ABC1A44FCE28EEC7E7F69880E59636.tmp' to '../../../../../project/Perch2.0/Content/2DSideScrollerBP/Blueprints/PerchCharacter.uasset'
+[2020.03.31-13.40.39:852][914]AssetCheck: New page: Asset Save: PerchCharacter
+[2020.03.31-13.40.39:852][914]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/PerchCharacter.PerchCharacter
+[2020.03.31-13.41.15:781][259]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.31-13.41.15:787][259]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.31-13.41.17:686][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/PerchCharacter" FILE="../../../../../project/Perch2.0/Content/2DSideScrollerBP/Blueprints/PerchCharacter.uasset" SILENT=true
+[2020.03.31-13.41.17:793][414]LogSavePackage: Moving '../../../../../project/Perch2.0/Saved/PerchCharacter0904BDE74FC6DB93FFC09C8714637DA4.tmp' to '../../../../../project/Perch2.0/Content/2DSideScrollerBP/Blueprints/PerchCharacter.uasset'
+[2020.03.31-13.41.17:811][414]AssetCheck: New page: Asset Save: PerchCharacter
+[2020.03.31-13.41.17:811][414]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/PerchCharacter.PerchCharacter
+[2020.03.31-13.41.18:552][478]BlueprintLog: New page: Compile PerchCharacter
+[2020.03.31-13.41.19:164][478]LogUObjectHash: Compacting FUObjectHashTables data took  10.20ms
+[2020.03.31-13.41.21:275][631]LogUObjectHash: Compacting FUObjectHashTables data took   9.28ms
+[2020.03.31-13.41.21:699][631]LogSavePackage: Moving '../../../../../project/Perch2.0/Saved/2DSideScrollerExampleMap5E15A168495D89EBAD2443BBA73B9D16.tmp' to '../../../../../project/Perch2.0/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2020.03.31-13.41.21:774][631]LogSavePackage: Moving '../../../../../project/Perch2.0/Saved/2DSideScrollerExampleMap_BuiltDaC0817DC44328B065B53F8A89B92B4995.tmp' to '../../../../../project/Perch2.0/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2020.03.31-13.41.21:801][631]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.31-13.41.21:802][631]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2020.03.31-13.41.21:802][631]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2020.03.31-13.41.22:565][687]LogUObjectHash: Compacting FUObjectHashTables data took   7.89ms
+[2020.03.31-13.41.23:920][805]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.31-13.41.23:951][805]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.41.23:952][805]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.31-13.41.23:952][805]PIE: New page: PIE session: 2DSideScrollerExampleMap (1 апр. 2020 г., 03:41:23)
+[2020.03.31-13.41.23:952][805]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.31-13.41.23:957][805]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004925s)
+[2020.03.31-13.41.23:958][805]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.03.31-13.41.23:958][805]LogPlayLevel: PIE: World Init took: (0.001286s)
+[2020.03.31-13.41.23:959][805]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006355s)
+[2020.03.31-13.41.24:125][805]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2020.03.31-13.41.24:126][805]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.31-13.41.24:126][805]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.31-13.41.24:126][805]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.31-13.41.24:126][805]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.31-13.41.24:126][805]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.31-13.41.24:126][805]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.31-13.41.24:126][805]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.31-13.41.24:126][805]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.31-13.41.24:127][805]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.31-13.41.24:127][805]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.31-13.41.24:146][805]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.31-13.41.24:146][805]LogAudioMixer: Display: Name: Динамики (Realtek High Definition Audio)
+[2020.03.31-13.41.24:146][805]LogAudioMixer: Display: Is Default: Yes
+[2020.03.31-13.41.24:146][805]LogAudioMixer: Display: Sample Rate: 192000
+[2020.03.31-13.41.24:146][805]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.31-13.41.24:146][805]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.31-13.41.24:146][805]LogAudioMixer: Display: Channel Order:
+[2020.03.31-13.41.24:146][805]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.31-13.41.24:146][805]LogAudioMixer: Display: 1: FrontRight
+[2020.03.31-13.41.24:164][805]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.03.31-13.41.24:166][805]LogInit: FAudioDevice initialized.
+[2020.03.31-13.41.24:177][805]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.03.31-13.41.24:179][805]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.03.31-20.41.24
+[2020.03.31-13.41.24:180][805]LogWorld: Bringing up level for play took: 0.002795
+[2020.03.31-13.41.24:181][805]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2020.03.31-13.41.24:184][805]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0,947
+[2020.03.31-13.41.24:184][805]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.41.35:803][ 14]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.41.36:745][108]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.41.37:233][156]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.41.37:748][205]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.41.45:325][995]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.41.45:325][995]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.41.45:325][995]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.41.45:325][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-13.41.45:325][995]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.31-13.41.45:325][995]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.41.45:325][995]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-13.41.45:326][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-13.41.45:335][995]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.31-13.41.45:335][995]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.41.45:342][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-13.41.45:501][995]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.41.45:505][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-13.41.45:513][995]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2020.03.31-13.41.45:545][996]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.03.31-13.45.55:770][513]BlueprintLog: New page: Compile PerchCharacter
+[2020.03.31-13.45.55:814][513]LogBlueprint: Warning: [Compiler PerchCharacter] Set dmg  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2020.03.31-13.45.56:392][513]LogUObjectHash: Compacting FUObjectHashTables data took   8.46ms
+[2020.03.31-13.45.58:088][620]BlueprintLog: New page: Compile PerchCharacter
+[2020.03.31-13.45.58:101][620]LogBlueprint: Warning: [Compiler PerchCharacter] Set dmg  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2020.03.31-13.45.58:682][620]LogUObjectHash: Compacting FUObjectHashTables data took  10.26ms
+[2020.03.31-13.46.23:321][162]BlueprintLog: New page: Compile PerchCharacter
+[2020.03.31-13.46.23:335][162]LogBlueprint: Warning: [Compiler PerchCharacter] Set dmg  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2020.03.31-13.46.23:903][162]LogUObjectHash: Compacting FUObjectHashTables data took   9.82ms
+[2020.03.31-13.46.49:084][868]BlueprintLog: New page: Compile PerchCharacter
+[2020.03.31-13.46.49:098][868]LogBlueprint: Warning: [Compiler PerchCharacter] Set dmg  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2020.03.31-13.46.49:688][868]LogUObjectHash: Compacting FUObjectHashTables data took   9.85ms
+[2020.03.31-13.47.11:194][222]BlueprintLog: New page: Compile PerchCharacter
+[2020.03.31-13.47.11:791][222]LogUObjectHash: Compacting FUObjectHashTables data took   9.85ms
+[2020.03.31-13.47.31:530][440]BlueprintLog: New page: Compile PerchCharacter
+[2020.03.31-13.47.32:128][440]LogUObjectHash: Compacting FUObjectHashTables data took  10.24ms
+[2020.03.31-13.47.33:183][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/PerchCharacter" FILE="../../../../../project/Perch2.0/Content/2DSideScrollerBP/Blueprints/PerchCharacter.uasset" SILENT=true
+[2020.03.31-13.47.33:301][499]LogSavePackage: Moving '../../../../../project/Perch2.0/Saved/PerchCharacter22D8CCE543E897FA225BA4B2A055FB52.tmp' to '../../../../../project/Perch2.0/Content/2DSideScrollerBP/Blueprints/PerchCharacter.uasset'
+[2020.03.31-13.47.33:320][499]AssetCheck: New page: Asset Save: PerchCharacter
+[2020.03.31-13.47.33:320][499]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/PerchCharacter.PerchCharacter
+[2020.03.31-13.47.34:117][551]LogEditorViewport: Clicking Background
+[2020.03.31-13.47.34:976][604]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.31-13.47.35:014][604]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.47.35:014][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.31-13.47.35:014][604]PIE: New page: PIE session: 2DSideScrollerExampleMap (1 апр. 2020 г., 03:47:35)
+[2020.03.31-13.47.35:015][604]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.31-13.47.35:020][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005138s)
+[2020.03.31-13.47.35:021][604]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.03.31-13.47.35:021][604]LogPlayLevel: PIE: World Init took: (0.001312s)
+[2020.03.31-13.47.35:021][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006601s)
+[2020.03.31-13.47.35:188][604]LogUObjectHash: Compacting FUObjectHashTables data took  10.08ms
+[2020.03.31-13.47.35:188][604]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.31-13.47.35:188][604]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.31-13.47.35:189][604]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.31-13.47.35:189][604]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.31-13.47.35:189][604]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.31-13.47.35:189][604]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.31-13.47.35:189][604]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.31-13.47.35:189][604]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.31-13.47.35:189][604]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.31-13.47.35:189][604]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.31-13.47.35:208][604]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.31-13.47.35:208][604]LogAudioMixer: Display: Name: Динамики (Realtek High Definition Audio)
+[2020.03.31-13.47.35:208][604]LogAudioMixer: Display: Is Default: Yes
+[2020.03.31-13.47.35:208][604]LogAudioMixer: Display: Sample Rate: 192000
+[2020.03.31-13.47.35:208][604]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.31-13.47.35:208][604]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.31-13.47.35:208][604]LogAudioMixer: Display: Channel Order:
+[2020.03.31-13.47.35:208][604]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.31-13.47.35:208][604]LogAudioMixer: Display: 1: FrontRight
+[2020.03.31-13.47.35:225][604]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.03.31-13.47.35:228][604]LogInit: FAudioDevice initialized.
+[2020.03.31-13.47.35:240][604]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.03.31-13.47.35:242][604]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.03.31-20.47.35
+[2020.03.31-13.47.35:244][604]LogWorld: Bringing up level for play took: 0.002828
+[2020.03.31-13.47.35:244][604]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2020.03.31-13.47.35:247][604]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0,01
+[2020.03.31-13.47.35:247][604]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.47.38:803][854]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.47.39:706][918]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.47.41:812][ 66]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.47.42:562][119]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.47.43:294][171]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.47.44:088][225]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.47.44:840][277]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.47.45:523][323]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.47.46:252][372]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.47.46:957][420]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.47.50:488][667]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.47.53:307][867]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.47.56:517][ 80]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.47.57:459][147]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.47.58:127][194]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.47.58:887][248]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.47.59:630][301]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.47.59:827][315]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.47.59:828][315]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.47.59:828][315]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.47.59:828][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-13.47.59:828][315]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.31-13.47.59:828][315]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.47.59:828][315]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-13.47.59:828][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-13.47.59:838][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.31-13.47.59:838][315]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.47.59:846][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-13.48.00:019][315]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.48.00:022][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-13.48.00:030][315]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2020.03.31-13.48.00:069][316]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.03.31-13.48.49:438][732]LogSlate: Took 0.019968 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.03.31-13.48.52:330][906]BlueprintLog: New page: Compile PerchCharacter
+[2020.03.31-13.48.52:917][906]LogUObjectHash: Compacting FUObjectHashTables data took   9.79ms
+[2020.03.31-13.50.22:212][626]BlueprintLog: New page: Compile PerchCharacter
+[2020.03.31-13.50.22:824][626]LogUObjectHash: Compacting FUObjectHashTables data took  10.26ms
+[2020.03.31-13.55.37:783][206]BlueprintLog: New page: Compile PerchCharacter
+[2020.03.31-13.55.38:370][206]LogUObjectHash: Compacting FUObjectHashTables data took   9.79ms
+[2020.03.31-13.55.39:877][264]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.31-13.55.39:914][264]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.55.39:914][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.31-13.55.39:914][264]PIE: New page: PIE session: 2DSideScrollerExampleMap (1 апр. 2020 г., 03:55:39)
+[2020.03.31-13.55.39:914][264]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.31-13.55.39:919][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004924s)
+[2020.03.31-13.55.39:920][264]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.03.31-13.55.39:921][264]LogPlayLevel: PIE: World Init took: (0.001316s)
+[2020.03.31-13.55.39:921][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006379s)
+[2020.03.31-13.55.40:093][264]LogUObjectHash: Compacting FUObjectHashTables data took   9.13ms
+[2020.03.31-13.55.40:093][264]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.31-13.55.40:093][264]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.31-13.55.40:093][264]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.31-13.55.40:093][264]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.31-13.55.40:093][264]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.31-13.55.40:093][264]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.31-13.55.40:093][264]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.31-13.55.40:093][264]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.31-13.55.40:094][264]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.31-13.55.40:094][264]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.31-13.55.40:113][264]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.31-13.55.40:113][264]LogAudioMixer: Display: Name: Динамики (Realtek High Definition Audio)
+[2020.03.31-13.55.40:113][264]LogAudioMixer: Display: Is Default: Yes
+[2020.03.31-13.55.40:113][264]LogAudioMixer: Display: Sample Rate: 192000
+[2020.03.31-13.55.40:114][264]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.31-13.55.40:114][264]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.31-13.55.40:114][264]LogAudioMixer: Display: Channel Order:
+[2020.03.31-13.55.40:114][264]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.31-13.55.40:114][264]LogAudioMixer: Display: 1: FrontRight
+[2020.03.31-13.55.40:131][264]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.03.31-13.55.40:134][264]LogInit: FAudioDevice initialized.
+[2020.03.31-13.55.40:148][264]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.03.31-13.55.40:151][264]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.03.31-20.55.40
+[2020.03.31-13.55.40:153][264]LogWorld: Bringing up level for play took: 0.003644
+[2020.03.31-13.55.40:153][264]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2020.03.31-13.55.40:156][264]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0,919
+[2020.03.31-13.55.40:156][264]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.55.44:152][452]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.55.44:775][481]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.55.47:188][597]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.55.47:971][635]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.55.52:183][838]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.55.52:971][876]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.55.53:808][916]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.55.53:808][916]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.55.53:808][916]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.55.53:809][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-13.55.53:809][916]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.31-13.55.53:809][916]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.55.53:809][916]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-13.55.53:809][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-13.55.53:819][916]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.31-13.55.53:819][916]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.55.53:827][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-13.55.54:009][916]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.55.54:013][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-13.55.54:020][916]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2020.03.31-13.55.54:066][917]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.03.31-13.56.00:968][290]BlueprintLog: New page: Compile PerchCharacter
+[2020.03.31-13.56.01:556][290]LogUObjectHash: Compacting FUObjectHashTables data took   8.21ms
+[2020.03.31-13.56.02:004][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/PerchCharacter" FILE="../../../../../project/Perch2.0/Content/2DSideScrollerBP/Blueprints/PerchCharacter.uasset" SILENT=true
+[2020.03.31-13.56.02:139][306]LogSavePackage: Moving '../../../../../project/Perch2.0/Saved/PerchCharacterDB66C0A94CB3362AEA2E888BA3F1F528.tmp' to '../../../../../project/Perch2.0/Content/2DSideScrollerBP/Blueprints/PerchCharacter.uasset'
+[2020.03.31-13.56.02:157][306]AssetCheck: New page: Asset Save: PerchCharacter
+[2020.03.31-13.56.02:157][306]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/PerchCharacter.PerchCharacter
+[2020.03.31-13.56.03:763][396]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.31-13.56.03:801][396]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.56.03:801][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.31-13.56.03:801][396]PIE: New page: PIE session: 2DSideScrollerExampleMap (1 апр. 2020 г., 03:56:03)
+[2020.03.31-13.56.03:802][396]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.31-13.56.03:807][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004905s)
+[2020.03.31-13.56.03:808][396]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.03.31-13.56.03:808][396]LogPlayLevel: PIE: World Init took: (0.001256s)
+[2020.03.31-13.56.03:808][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006299s)
+[2020.03.31-13.56.03:974][396]LogUObjectHash: Compacting FUObjectHashTables data took   9.16ms
+[2020.03.31-13.56.03:974][396]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.31-13.56.03:975][396]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.31-13.56.03:975][396]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.31-13.56.03:975][396]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.31-13.56.03:975][396]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.31-13.56.03:975][396]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.31-13.56.03:975][396]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.31-13.56.03:975][396]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.31-13.56.03:975][396]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.31-13.56.03:975][396]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.31-13.56.03:994][396]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.31-13.56.03:994][396]LogAudioMixer: Display: Name: Динамики (Realtek High Definition Audio)
+[2020.03.31-13.56.03:994][396]LogAudioMixer: Display: Is Default: Yes
+[2020.03.31-13.56.03:994][396]LogAudioMixer: Display: Sample Rate: 192000
+[2020.03.31-13.56.03:994][396]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.31-13.56.03:994][396]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.31-13.56.03:994][396]LogAudioMixer: Display: Channel Order:
+[2020.03.31-13.56.03:994][396]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.31-13.56.03:994][396]LogAudioMixer: Display: 1: FrontRight
+[2020.03.31-13.56.04:011][396]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.03.31-13.56.04:013][396]LogInit: FAudioDevice initialized.
+[2020.03.31-13.56.04:023][396]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.03.31-13.56.04:025][396]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.03.31-20.56.04
+[2020.03.31-13.56.04:027][396]LogWorld: Bringing up level for play took: 0.002769
+[2020.03.31-13.56.04:027][396]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2020.03.31-13.56.04:030][396]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0,793
+[2020.03.31-13.56.04:030][396]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.56.15:473][144]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.56.15:473][144]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.56.15:473][144]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.56.15:474][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-13.56.15:474][144]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.31-13.56.15:474][144]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.56.15:474][144]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-13.56.15:474][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-13.56.15:488][144]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.31-13.56.15:488][144]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.56.15:495][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-13.56.15:671][144]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.56.15:675][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-13.56.15:683][144]LogUObjectHash: Compacting FUObjectHashTables data took   6.52ms
+[2020.03.31-13.56.15:721][145]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.03.31-13.56.32:358][218]BlueprintLog: New page: Compile PerchCharacter
+[2020.03.31-13.56.32:987][218]LogUObjectHash: Compacting FUObjectHashTables data took   8.30ms
+[2020.03.31-13.56.55:855][861]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.31-13.56.55:886][861]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.56.55:887][861]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.31-13.56.55:888][861]LogPlayLevel: [PlayLevel] Compiling PerchCharacter before play...
+[2020.03.31-13.56.56:560][861]LogUObjectHash: Compacting FUObjectHashTables data took   9.86ms
+[2020.03.31-13.56.56:563][861]LogPlayLevel: PlayLevel: Blueprint regeneration took 676 ms (1 blueprints)
+[2020.03.31-13.56.56:563][861]PIE: New page: PIE session: 2DSideScrollerExampleMap (1 апр. 2020 г., 03:56:56)
+[2020.03.31-13.56.56:563][861]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.31-13.56.56:568][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004916s)
+[2020.03.31-13.56.56:570][861]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.03.31-13.56.56:570][861]LogPlayLevel: PIE: World Init took: (0.001282s)
+[2020.03.31-13.56.56:570][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006341s)
+[2020.03.31-13.56.56:737][861]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2020.03.31-13.56.56:738][861]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.31-13.56.56:738][861]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.31-13.56.56:738][861]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.31-13.56.56:738][861]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.31-13.56.56:738][861]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.31-13.56.56:738][861]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.31-13.56.56:738][861]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.31-13.56.56:738][861]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.31-13.56.56:738][861]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.31-13.56.56:738][861]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.31-13.56.56:757][861]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.31-13.56.56:757][861]LogAudioMixer: Display: Name: Динамики (Realtek High Definition Audio)
+[2020.03.31-13.56.56:757][861]LogAudioMixer: Display: Is Default: Yes
+[2020.03.31-13.56.56:757][861]LogAudioMixer: Display: Sample Rate: 192000
+[2020.03.31-13.56.56:757][861]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.31-13.56.56:757][861]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.31-13.56.56:757][861]LogAudioMixer: Display: Channel Order:
+[2020.03.31-13.56.56:757][861]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.31-13.56.56:757][861]LogAudioMixer: Display: 1: FrontRight
+[2020.03.31-13.56.56:775][861]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.03.31-13.56.56:777][861]LogInit: FAudioDevice initialized.
+[2020.03.31-13.56.56:787][861]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.03.31-13.56.56:789][861]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.03.31-20.56.56
+[2020.03.31-13.56.56:791][861]LogWorld: Bringing up level for play took: 0.002952
+[2020.03.31-13.56.56:791][861]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2020.03.31-13.56.56:794][861]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 1,557
+[2020.03.31-13.56.56:794][861]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.57.00:451][121]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.57.01:850][223]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.57.02:884][299]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.57.03:707][360]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.57.04:503][419]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.57.05:133][465]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.57.05:758][511]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.57.06:366][555]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.57.06:994][599]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.57.07:597][643]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.57.08:765][729]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.57.08:833][734]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.57.09:536][785]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.57.10:169][832]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.57.11:348][917]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.57.11:361][918]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.57.12:220][981]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.57.12:866][ 29]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.57.13:448][ 71]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.57.13:448][ 71]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.57.13:448][ 71]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.57.13:448][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-13.57.13:449][ 71]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.31-13.57.13:449][ 71]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.57.13:449][ 71]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-13.57.13:449][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-13.57.13:464][ 71]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.31-13.57.13:464][ 71]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.57.13:472][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-13.57.13:661][ 71]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.57.13:665][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-13.57.13:673][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2020.03.31-13.57.13:710][ 72]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2020.03.31-13.58.02:675][940]BlueprintLog: New page: Compile PerchCharacter
+[2020.03.31-13.58.03:270][940]LogUObjectHash: Compacting FUObjectHashTables data took   8.26ms
+[2020.03.31-13.58.03:690][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/PerchCharacter" FILE="../../../../../project/Perch2.0/Content/2DSideScrollerBP/Blueprints/PerchCharacter.uasset" SILENT=true
+[2020.03.31-13.58.03:823][954]LogSavePackage: Moving '../../../../../project/Perch2.0/Saved/PerchCharacter1BC6CC5844B3A1AC1F1856A57B72D607.tmp' to '../../../../../project/Perch2.0/Content/2DSideScrollerBP/Blueprints/PerchCharacter.uasset'
+[2020.03.31-13.58.03:841][954]AssetCheck: New page: Asset Save: PerchCharacter
+[2020.03.31-13.58.03:841][954]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/PerchCharacter.PerchCharacter
+[2020.03.31-13.58.06:297][ 77]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.31-13.58.06:328][ 77]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.58.06:329][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.31-13.58.06:329][ 77]PIE: New page: PIE session: 2DSideScrollerExampleMap (1 апр. 2020 г., 03:58:06)
+[2020.03.31-13.58.06:329][ 77]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.31-13.58.06:334][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004939s)
+[2020.03.31-13.58.06:335][ 77]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2020.03.31-13.58.06:336][ 77]LogPlayLevel: PIE: World Init took: (0.001294s)
+[2020.03.31-13.58.06:336][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.006373s)
+[2020.03.31-13.58.06:505][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   9.50ms
+[2020.03.31-13.58.06:506][ 77]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.31-13.58.06:506][ 77]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.31-13.58.06:506][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.31-13.58.06:506][ 77]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.31-13.58.06:506][ 77]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.31-13.58.06:506][ 77]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.31-13.58.06:506][ 77]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.31-13.58.06:506][ 77]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.31-13.58.06:507][ 77]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.31-13.58.06:507][ 77]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.31-13.58.06:525][ 77]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.31-13.58.06:525][ 77]LogAudioMixer: Display: Name: Динамики (Realtek High Definition Audio)
+[2020.03.31-13.58.06:525][ 77]LogAudioMixer: Display: Is Default: Yes
+[2020.03.31-13.58.06:525][ 77]LogAudioMixer: Display: Sample Rate: 192000
+[2020.03.31-13.58.06:525][ 77]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.31-13.58.06:525][ 77]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.31-13.58.06:525][ 77]LogAudioMixer: Display: Channel Order:
+[2020.03.31-13.58.06:526][ 77]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.31-13.58.06:526][ 77]LogAudioMixer: Display: 1: FrontRight
+[2020.03.31-13.58.06:543][ 77]LogAudioMixer: Display: Using Audio Device Динамики (Realtek High Definition Audio)
+[2020.03.31-13.58.06:545][ 77]LogInit: FAudioDevice initialized.
+[2020.03.31-13.58.06:552][ 77]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.03.31-13.58.06:554][ 77]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2020.03.31-20.58.06
+[2020.03.31-13.58.06:556][ 77]LogWorld: Bringing up level for play took: 0.002927
+[2020.03.31-13.58.06:556][ 77]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2020.03.31-13.58.06:559][ 77]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap -0,678
+[2020.03.31-13.58.06:559][ 77]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.58.07:859][160]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.58.08:709][215]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.58.09:508][267]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.58.10:123][307]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.58.10:228][313]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.58.10:880][355]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.58.13:075][497]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.58.13:842][547]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.58.15:432][649]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.58.15:525][655]LogBlueprintUserMessages: [PerchCharacter_C_0] hit
+[2020.03.31-13.58.16:217][700]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.58.16:827][739]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.58.17:504][782]LogBlueprintUserMessages: [PerchCharacter_C_0] Hit Enemy
+[2020.03.31-13.58.18:240][819]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.58.18:240][819]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.58.18:240][819]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.58.18:240][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-13.58.18:240][819]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2020.03.31-13.58.18:240][819]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.58.18:241][819]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-13.58.18:241][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-13.58.18:252][819]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.31-13.58.18:252][819]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2020.03.31-13.58.18:260][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-13.58.18:422][819]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-13.58.18:426][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.31-13.58.18:434][819]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2020.03.31-13.58.18:472][820]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2020.03.31-17.20.23:124][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.03.31-17.20.26:594][515]LogSlate: Window 'PerchCharacter' being destroyed
+[2020.03.31-17.20.26:601][515]LogSlate: Window 'PerchCharacter' being destroyed
+[2020.03.31-17.20.26:601][515]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.31-17.20.26:601][515]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-17.20.26:602][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-17.20.26:690][515]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.31-17.20.26:690][515]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-17.20.26:690][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-17.20.28:179][652]LogUObjectHash: Compacting FUObjectHashTables data took   7.93ms
+[2020.03.31-17.20.28:356][652]LogSlate: Window 'Perchik - Unreal Editor' being destroyed
+[2020.03.31-17.20.28:365][652]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.31-17.20.28:721][653]Cmd: QUIT_EDITOR
+[2020.03.31-17.20.28:721][653]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.03.31-17.20.28:760][653]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.03.31-17.20.28:760][653]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.31-17.20.30:404][653]LogExit: Preparing to exit.
+[2020.03.31-17.20.31:274][653]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-17.20.31:274][653]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-17.20.31:274][653]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-17.20.31:274][653]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-17.20.31:274][653]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-17.20.31:274][653]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-17.20.31:274][653]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.31-17.20.31:274][653]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-17.20.31:279][653]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-17.20.31:477][653]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.03.31-17.20.31:662][653]LogExit: Editor shut down
+[2020.03.31-17.20.31:662][653]LogExit: Transaction tracking system shut down
+[2020.03.31-17.20.33:447][653]LogExit: Object subsystem successfully closed.
+[2020.03.31-17.20.33:618][653]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.03.31-17.20.34:731][653]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (704)
+[2020.03.31-17.20.34:731][653]LogModuleManager: Shutting down and abandoning module BlueprintGraph (702)
+[2020.03.31-17.20.34:731][653]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (700)
+[2020.03.31-17.20.34:731][653]LogModuleManager: Shutting down and abandoning module Voice (698)
+[2020.03.31-17.20.34:739][653]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (696)
+[2020.03.31-17.20.34:739][653]LogModuleManager: Shutting down and abandoning module SceneOutliner (694)
+[2020.03.31-17.20.34:739][653]LogModuleManager: Shutting down and abandoning module AddContentDialog (692)
+[2020.03.31-17.20.34:753][653]LogModuleManager: Shutting down and abandoning module WidgetCarousel (691)
+[2020.03.31-17.20.34:753][653]LogModuleManager: Shutting down and abandoning module EditorWidgets (688)
+[2020.03.31-17.20.34:753][653]LogModuleManager: Shutting down and abandoning module CollectionManager (686)
+[2020.03.31-17.20.34:761][653]LogModuleManager: Shutting down and abandoning module StatsViewer (684)
+[2020.03.31-17.20.34:773][653]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (682)
+[2020.03.31-17.20.34:780][653]LogModuleManager: Shutting down and abandoning module FoliageEdit (680)
+[2020.03.31-17.20.34:795][653]LogModuleManager: Shutting down and abandoning module LandscapeEditor (678)
+[2020.03.31-17.20.34:827][653]LogModuleManager: Shutting down and abandoning module MeshPaintMode (676)
+[2020.03.31-17.20.34:828][653]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (674)
+[2020.03.31-17.20.34:828][653]LogModuleManager: Shutting down and abandoning module ActorPickerMode (672)
+[2020.03.31-17.20.34:828][653]LogModuleManager: Shutting down and abandoning module GeometryMode (670)
+[2020.03.31-17.20.34:828][653]LogModuleManager: Shutting down and abandoning module TextureAlignMode (668)
+[2020.03.31-17.20.34:828][653]LogModuleManager: Shutting down and abandoning module BspMode (666)
+[2020.03.31-17.20.34:828][653]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (664)
+[2020.03.31-17.20.34:839][653]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (662)
+[2020.03.31-17.20.34:844][653]LogModuleManager: Shutting down and abandoning module AutomationWorker (660)
+[2020.03.31-17.20.34:844][653]LogModuleManager: Shutting down and abandoning module SteamVREditor (658)
+[2020.03.31-17.20.34:844][653]LogModuleManager: Shutting down and abandoning module OculusMR (656)
+[2020.03.31-17.20.34:855][653]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (654)
+[2020.03.31-17.20.34:866][653]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (652)
+[2020.03.31-17.20.34:875][653]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (650)
+[2020.03.31-17.20.34:928][653]LogModuleManager: Shutting down and abandoning module PlacementMode (649)
+[2020.03.31-17.20.34:928][653]LogModuleManager: Shutting down and abandoning module MaterialEditor (648)
+[2020.03.31-17.20.34:962][653]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (644)
+[2020.03.31-17.20.34:972][653]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (642)
+[2020.03.31-17.20.34:972][653]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (640)
+[2020.03.31-17.20.34:972][653]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (638)
+[2020.03.31-17.20.34:973][653]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (636)
+[2020.03.31-17.20.34:973][653]LogModuleManager: Shutting down and abandoning module WebMMedia (634)
+[2020.03.31-17.20.34:982][653]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (632)
+[2020.03.31-17.20.34:993][653]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (630)
+[2020.03.31-17.20.35:013][653]LogModuleManager: Shutting down and abandoning module SequenceRecorder (629)
+[2020.03.31-17.20.35:013][653]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (626)
+[2020.03.31-17.20.35:013][653]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (624)
+[2020.03.31-17.20.35:014][653]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (622)
+[2020.03.31-17.20.35:014][653]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (620)
+[2020.03.31-17.20.35:014][653]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (618)
+[2020.03.31-17.20.35:014][653]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (616)
+[2020.03.31-17.20.35:014][653]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (614)
+[2020.03.31-17.20.35:014][653]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (612)
+[2020.03.31-17.20.35:014][653]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (610)
+[2020.03.31-17.20.35:014][653]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (608)
+[2020.03.31-17.20.35:014][653]LogModuleManager: Shutting down and abandoning module CharacterAI (606)
+[2020.03.31-17.20.35:014][653]LogModuleManager: Shutting down and abandoning module SmartSnapping (604)
+[2020.03.31-17.20.35:014][653]LogModuleManager: Shutting down and abandoning module SessionServices (602)
+[2020.03.31-17.20.35:014][653]LogModuleManager: Shutting down and abandoning module MeshPaint (600)
+[2020.03.31-17.20.35:030][653]LogModuleManager: Shutting down and abandoning module ViewportSnapping (598)
+[2020.03.31-17.20.35:030][653]LogModuleManager: Shutting down and abandoning module ViewportInteraction (596)
+[2020.03.31-17.20.35:030][653]LogModuleManager: Shutting down and abandoning module ClothPainter (594)
+[2020.03.31-17.20.35:049][653]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (593)
+[2020.03.31-17.20.35:067][653]LogModuleManager: Shutting down and abandoning module LogVisualizer (590)
+[2020.03.31-17.20.35:085][653]LogModuleManager: Shutting down and abandoning module IntroTutorials (588)
+[2020.03.31-17.20.35:100][653]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (587)
+[2020.03.31-17.20.35:112][653]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (584)
+[2020.03.31-17.20.35:112][653]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (582)
+[2020.03.31-17.20.35:112][653]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (580)
+[2020.03.31-17.20.35:113][653]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (579)
+[2020.03.31-17.20.36:962][653]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (576)
+[2020.03.31-17.20.36:962][653]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (574)
+[2020.03.31-17.20.36:962][653]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (572)
+[2020.03.31-17.20.36:962][653]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (570)
+[2020.03.31-17.20.36:962][653]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (568)
+[2020.03.31-17.20.36:962][653]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (566)
+[2020.03.31-17.20.36:962][653]LogModuleManager: Shutting down and abandoning module InputBindingEditor (564)
+[2020.03.31-17.20.36:978][653]LogModuleManager: Shutting down and abandoning module MergeActors (562)
+[2020.03.31-17.20.36:990][653]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (560)
+[2020.03.31-17.20.36:998][653]LogModuleManager: Shutting down and abandoning module LocalizationService (559)
+[2020.03.31-17.20.37:010][653]LogModuleManager: Shutting down and abandoning module HardwareTargeting (556)
+[2020.03.31-17.20.37:010][653]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (554)
+[2020.03.31-17.20.37:010][653]LogModuleManager: Shutting down and abandoning module UndoHistory (552)
+[2020.03.31-17.20.37:015][653]LogModuleManager: Shutting down and abandoning module XmlParser (550)
+[2020.03.31-17.20.37:021][653]LogModuleManager: Shutting down and abandoning module Blutility (548)
+[2020.03.31-17.20.37:022][653]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (546)
+[2020.03.31-17.20.37:022][653]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (545)
+[2020.03.31-17.20.37:022][653]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (542)
+[2020.03.31-17.20.37:022][653]LogModuleManager: Shutting down and abandoning module SettingsEditor (540)
+[2020.03.31-17.20.37:027][653]LogModuleManager: Shutting down and abandoning module ProjectLauncher (538)
+[2020.03.31-17.20.37:041][653]LogModuleManager: Shutting down and abandoning module SessionFrontend (536)
+[2020.03.31-17.20.37:049][653]LogModuleManager: Shutting down and abandoning module ProfilerClient (534)
+[2020.03.31-17.20.37:058][653]LogModuleManager: Shutting down and abandoning module DeviceManager (532)
+[2020.03.31-17.20.37:066][653]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (531)
+[2020.03.31-17.20.37:099][653]LogModuleManager: Shutting down and abandoning module AutomationController (528)
+[2020.03.31-17.20.37:112][653]LogModuleManager: Shutting down and abandoning module AutomationWindow (526)
+[2020.03.31-17.20.37:123][653]LogModuleManager: Shutting down and abandoning module Layers (524)
+[2020.03.31-17.20.37:140][653]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (522)
+[2020.03.31-17.20.37:140][653]LogModuleManager: Shutting down and abandoning module DetailCustomizations (520)
+[2020.03.31-17.20.37:144][653]LogModuleManager: Shutting down and abandoning module PackagesDialog (518)
+[2020.03.31-17.20.37:144][653]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (516)
+[2020.03.31-17.20.37:165][653]LogModuleManager: Shutting down and abandoning module Persona (514)
+[2020.03.31-17.20.37:186][653]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (513)
+[2020.03.31-17.20.37:187][653]LogModuleManager: Shutting down and abandoning module AnimGraph (511)
+[2020.03.31-17.20.37:199][653]LogModuleManager: Shutting down and abandoning module Kismet (508)
+[2020.03.31-17.20.37:221][653]LogModuleManager: Shutting down and abandoning module KismetWidgets (507)
+[2020.03.31-17.20.37:221][653]LogModuleManager: Shutting down and abandoning module GraphEditor (504)
+[2020.03.31-17.20.37:221][653]LogModuleManager: Shutting down and abandoning module StructViewer (502)
+[2020.03.31-17.20.37:221][653]LogModuleManager: Shutting down and abandoning module ClassViewer (500)
+[2020.03.31-17.20.37:223][653]LogModuleManager: Shutting down and abandoning module Toolbox (498)
+[2020.03.31-17.20.37:223][653]LogModuleManager: Shutting down and abandoning module ModuleUI (496)
+[2020.03.31-17.20.37:227][653]LogModuleManager: Shutting down and abandoning module OutputLog (494)
+[2020.03.31-17.20.37:236][653]LogModuleManager: Shutting down and abandoning module GammaUI (492)
+[2020.03.31-17.20.37:241][653]LogModuleManager: Shutting down and abandoning module Documentation (490)
+[2020.03.31-17.20.37:242][653]LogModuleManager: Shutting down and abandoning module ToolMenus (488)
+[2020.03.31-17.20.37:242][653]LogModuleManager: Shutting down and abandoning module LiveCoding (486)
+[2020.03.31-17.20.37:254][653]LogModuleManager: Shutting down and abandoning module LevelSequence (484)
+[2020.03.31-17.20.37:255][653]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (482)
+[2020.03.31-17.20.37:255][653]LogModuleManager: Shutting down and abandoning module MovieScene (480)
+[2020.03.31-17.20.37:263][653]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (478)
+[2020.03.31-17.20.37:272][653]LogModuleManager: Shutting down and abandoning module LauncherPlatform (476)
+[2020.03.31-17.20.37:272][653]LogModuleManager: Shutting down and abandoning module AnalyticsET (474)
+[2020.03.31-17.20.37:272][653]LogModuleManager: Shutting down and abandoning module PortalServices (472)
+[2020.03.31-17.20.37:272][653]LogModuleManager: Shutting down and abandoning module PortalRpc (470)
+[2020.03.31-17.20.37:272][653]LogModuleManager: Shutting down and abandoning module MessagingRpc (468)
+[2020.03.31-17.20.37:272][653]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (466)
+[2020.03.31-17.20.37:273][653]LogModuleManager: Shutting down and abandoning module AIModule (464)
+[2020.03.31-17.20.37:273][653]LogModuleManager: Shutting down and abandoning module GameplayDebugger (463)
+[2020.03.31-17.20.37:273][653]LogModuleManager: Shutting down and abandoning module AITestSuite (461)
+[2020.03.31-17.20.37:273][653]LogModuleManager: Shutting down and abandoning module NavigationSystem (459)
+[2020.03.31-17.20.37:273][653]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (456)
+[2020.03.31-17.20.37:298][653]LogModuleManager: Shutting down and abandoning module ProfilerService (454)
+[2020.03.31-17.20.37:466][653]LogModuleManager: Shutting down and abandoning module TaskGraph (452)
+[2020.03.31-17.20.37:481][653]LogModuleManager: Shutting down and abandoning module ScreenshotTools (450)
+[2020.03.31-17.20.37:481][653]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (448)
+[2020.03.31-17.20.37:481][653]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (446)
+[2020.03.31-17.20.37:481][653]LogModuleManager: Shutting down and abandoning module OculusEditor (444)
+[2020.03.31-17.20.37:489][653]LogModuleManager: Shutting down and abandoning module OculusInput (442)
+[2020.03.31-17.20.37:489][653]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (440)
+[2020.03.31-17.20.37:489][653]LogModuleManager: Shutting down and abandoning module EditableMesh (438)
+[2020.03.31-17.20.37:494][653]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (436)
+[2020.03.31-17.20.37:494][653]LogModuleManager: Shutting down and abandoning module CableComponent (434)
+[2020.03.31-17.20.37:494][653]LogModuleManager: Shutting down and abandoning module AudioCapture (432)
+[2020.03.31-17.20.37:494][653]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (431)
+[2020.03.31-17.20.37:494][653]LogModuleManager: Shutting down and abandoning module AssetTags (428)
+[2020.03.31-17.20.37:494][653]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (426)
+[2020.03.31-17.20.37:494][653]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (424)
+[2020.03.31-17.20.37:494][653]LogModuleManager: Shutting down and abandoning module AppleImageUtils (422)
+[2020.03.31-17.20.37:494][653]LogModuleManager: Shutting down and abandoning module AndroidPermission (420)
+[2020.03.31-17.20.37:494][653]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (418)
+[2020.03.31-17.20.37:498][653]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (416)
+[2020.03.31-17.20.37:510][653]LogModuleManager: Shutting down and abandoning module MediaCompositing (414)
+[2020.03.31-17.20.37:510][653]LogModuleManager: Shutting down and abandoning module ImgMedia (412)
+[2020.03.31-17.20.37:510][653]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (410)
+[2020.03.31-17.20.37:510][653]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (408)
+[2020.03.31-17.20.37:510][653]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (406)
+[2020.03.31-17.20.37:510][653]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (404)
+[2020.03.31-17.20.37:510][653]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (402)
+[2020.03.31-17.20.37:510][653]LogModuleManager: Shutting down and abandoning module BackChannel (400)
+[2020.03.31-17.20.37:516][653]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (398)
+[2020.03.31-17.20.37:516][653]LogModuleManager: Shutting down and abandoning module AutomationUtils (396)
+[2020.03.31-17.20.37:516][653]LogModuleManager: Shutting down and abandoning module AlembicImporter (394)
+[2020.03.31-17.20.37:521][653]LogModuleManager: Shutting down and abandoning module AlembicLibrary (393)
+[2020.03.31-17.20.37:528][653]LogModuleManager: Shutting down and abandoning module GeometryCache (392)
+[2020.03.31-17.20.37:528][653]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (391)
+[2020.03.31-17.20.37:528][653]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (386)
+[2020.03.31-17.20.37:535][653]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (384)
+[2020.03.31-17.20.37:542][653]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (382)
+[2020.03.31-17.20.37:542][653]LogModuleManager: Shutting down and abandoning module PluginBrowser (380)
+[2020.03.31-17.20.37:556][653]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (378)
+[2020.03.31-17.20.37:566][653]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (376)
+[2020.03.31-17.20.37:571][653]LogModuleManager: Shutting down and abandoning module CurveEditorTools (374)
+[2020.03.31-17.20.37:590][653]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (372)
+[2020.03.31-17.20.37:590][653]LogModuleManager: Shutting down and abandoning module CryptoKeys (370)
+[2020.03.31-17.20.37:590][653]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (368)
+[2020.03.31-17.20.37:600][653]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (366)
+[2020.03.31-17.20.37:600][653]LogModuleManager: Shutting down and abandoning module UObjectPlugin (364)
+[2020.03.31-17.20.37:600][653]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (362)
+[2020.03.31-17.20.37:606][653]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (360)
+[2020.03.31-17.20.37:616][653]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (358)
+[2020.03.31-17.20.37:630][653]LogModuleManager: Shutting down and abandoning module GitSourceControl (356)
+[2020.03.31-17.20.37:642][653]LogModuleManager: Shutting down and abandoning module SourceControl (355)
+[2020.03.31-17.20.37:642][653]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (352)
+[2020.03.31-17.20.37:652][653]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (350)
+[2020.03.31-17.20.37:652][653]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (348)
+[2020.03.31-17.20.37:652][653]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (346)
+[2020.03.31-17.20.37:652][653]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (344)
+[2020.03.31-17.20.37:652][653]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (342)
+[2020.03.31-17.20.37:652][653]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (340)
+[2020.03.31-17.20.37:652][653]LogModuleManager: Shutting down and abandoning module Paper2DEditor (338)
+[2020.03.31-17.20.37:666][653]LogModuleManager: Shutting down and abandoning module SignificanceManager (336)
+[2020.03.31-17.20.37:666][653]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (334)
+[2020.03.31-17.20.37:666][653]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (332)
+[2020.03.31-17.20.37:666][653]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (328)
+[2020.03.31-17.20.37:666][653]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2020.03.31-17.20.37:666][653]LogModuleManager: Shutting down and abandoning module UdpMessaging (324)
+[2020.03.31-17.20.37:767][653]LogModuleManager: Shutting down and abandoning module TcpMessaging (322)
+[2020.03.31-17.20.37:882][653]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (320)
+[2020.03.31-17.20.37:905][653]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (318)
+[2020.03.31-17.20.37:915][653]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.03.31-17.20.37:915][653]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (316)
+[2020.03.31-17.20.37:915][653]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (314)
+[2020.03.31-17.20.37:915][653]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (312)
+[2020.03.31-17.20.37:915][653]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (310)
+[2020.03.31-17.20.37:915][653]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (308)
+[2020.03.31-17.20.37:922][653]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (306)
+[2020.03.31-17.20.37:922][653]LogModuleManager: Shutting down and abandoning module MagicLeapController (304)
+[2020.03.31-17.20.37:935][653]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.03.31-17.20.37:935][653]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (302)
+[2020.03.31-17.20.37:935][653]LogModuleManager: Shutting down and abandoning module MagicLeapAR (300)
+[2020.03.31-17.20.37:935][653]LogModuleManager: Shutting down and abandoning module AugmentedReality (299)
+[2020.03.31-17.20.37:935][653]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (296)
+[2020.03.31-17.20.37:935][653]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (294)
+[2020.03.31-17.20.37:935][653]LogModuleManager: Shutting down and abandoning module FacialAnimation (292)
+[2020.03.31-17.20.37:935][653]LogModuleManager: Shutting down and abandoning module DataValidation (290)
+[2020.03.31-17.20.37:935][653]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (288)
+[2020.03.31-17.20.37:950][653]LogModuleManager: Shutting down and abandoning module LevelEditor (287)
+[2020.03.31-17.20.37:967][653]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (286)
+[2020.03.31-17.20.37:979][653]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (284)
+[2020.03.31-17.20.37:979][653]LogModuleManager: Shutting down and abandoning module MainFrame (282)
+[2020.03.31-17.20.37:979][653]LogModuleManager: Shutting down and abandoning module HotReload (281)
+[2020.03.31-17.20.37:985][653]LogModuleManager: Shutting down and abandoning module ContentBrowser (277)
+[2020.03.31-17.20.37:995][653]LogModuleManager: Shutting down and abandoning module TreeMap (275)
+[2020.03.31-17.20.38:000][653]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.03.31-17.20.38:000][653]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.03.31-17.20.38:000][653]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.03.31-17.20.38:000][653]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.03.31-17.20.38:009][653]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.03.31-17.20.38:017][653]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.03.31-17.20.38:017][653]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.03.31-17.20.38:017][653]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.03.31-17.20.38:017][653]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.03.31-17.20.38:031][653]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.03.31-17.20.38:040][653]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.03.31-17.20.38:040][653]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.03.31-17.20.38:040][653]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.03.31-17.20.38:050][653]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.03.31-17.20.38:068][653]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.03.31-17.20.38:068][653]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.03.31-17.20.38:087][653]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.03.31-17.20.38:092][653]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.03.31-17.20.38:100][653]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.03.31-17.20.38:103][653]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.03.31-17.20.38:110][653]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.03.31-17.20.38:122][653]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.03.31-17.20.38:123][653]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.03.31-17.20.38:148][653]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.03.31-17.20.38:148][653]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.03.31-17.20.38:148][653]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.03.31-17.20.38:148][653]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.03.31-17.20.38:155][653]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.03.31-17.20.38:155][653]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.03.31-17.20.38:155][653]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.03.31-17.20.38:164][653]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.03.31-17.20.38:174][653]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.03.31-17.20.38:174][653]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.03.31-17.20.38:174][653]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.03.31-17.20.38:189][653]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.03.31-17.20.38:204][653]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.03.31-17.20.38:246][653]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.03.31-17.20.38:247][653]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.03.31-17.20.38:247][653]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.03.31-17.20.38:247][653]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.03.31-17.20.38:259][653]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.03.31-17.20.38:260][653]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.03.31-17.20.38:270][653]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.03.31-17.20.38:282][653]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.03.31-17.20.38:296][653]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.03.31-17.20.38:305][653]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.03.31-17.20.38:316][653]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.03.31-17.20.38:316][653]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.03.31-17.20.38:316][653]LogDerivedDataCache: Shutdown
+[2020.03.31-17.20.38:316][653]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.03.31-17.20.38:316][653]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.03.31-17.20.38:316][653]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.03.31-17.20.38:324][653]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.03.31-17.20.38:330][653]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.03.31-17.20.38:342][653]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.03.31-17.20.38:342][653]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.03.31-17.20.38:363][653]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.03.31-17.20.38:363][653]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.03.31-17.20.38:363][653]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.03.31-17.20.38:367][653]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.03.31-17.20.38:372][653]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.03.31-17.20.38:372][653]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.03.31-17.20.38:372][653]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.03.31-17.20.38:372][653]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.03.31-17.20.38:381][653]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.03.31-17.20.38:381][653]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.03.31-17.20.38:391][653]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.03.31-17.20.38:391][653]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.03.31-17.20.38:391][653]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.03.31-17.20.38:391][653]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.03.31-17.20.38:391][653]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.03.31-17.20.38:403][653]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.03.31-17.20.38:414][653]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.03.31-17.20.38:414][653]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.03.31-17.20.38:425][653]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.03.31-17.20.38:427][653]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.03.31-17.20.38:427][653]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.03.31-17.20.38:432][653]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.03.31-17.20.38:434][653]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.03.31-17.20.38:434][653]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.03.31-17.20.38:435][653]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.03.31-17.20.38:442][653]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.03.31-17.20.38:442][653]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.03.31-17.20.38:442][653]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.03.31-17.20.38:442][653]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.03.31-17.20.38:442][653]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.03.31-17.20.38:442][653]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.03.31-17.20.38:456][653]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.03.31-17.20.38:456][653]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.03.31-17.20.38:456][653]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.03.31-17.20.38:456][653]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.03.31-17.20.38:461][653]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.03.31-17.20.38:468][653]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.03.31-17.20.38:469][653]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.03.31-17.20.38:475][653]LogHMD: Freeing OpenVRDLLHandle.
+[2020.03.31-17.20.38:476][653]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.03.31-17.20.38:495][653]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.03.31-17.20.38:495][653]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.03.31-17.20.38:495][653]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.03.31-17.20.38:495][653]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.03.31-17.20.38:501][653]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.03.31-17.20.38:514][653]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.03.31-17.20.38:570][653]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.03.31-17.20.38:570][653]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.03.31-17.20.38:571][653]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B44BE1DA2-4A85-F308-D533-AE95C86E2733%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.2-11100242%2B%2B%2BUE4%2BRelease-4.24&UserID=62976cf84b5efaec0d8eb4ae2813085d%7Cbfbdb5f3447442cc9e865bebd5c000dd%7Cc7dd8e1a-5512-46c4-916c-169e8a3245ef&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.03.31-17.20.38:595][653]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.03.31-17.20.38:596][653]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.03.31-17.20.38:625][653]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.03.31-17.20.38:626][653]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.03.31-17.20.38:626][653]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.03.31-17.20.38:626][653]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.03.31-17.20.38:626][653]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.03.31-17.20.38:626][653]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.03.31-17.20.38:626][653]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.03.31-17.20.38:636][653]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.03.31-17.20.38:636][653]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.03.31-17.20.38:636][653]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.03.31-17.20.38:648][653]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.03.31-17.20.38:657][653]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.03.31-17.20.38:679][653]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.03.31-17.20.38:681][653]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.03.31-17.20.38:681][653]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.03.31-17.20.38:681][653]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.03.31-17.20.38:704][653]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.03.31-17.20.38:715][653]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.03.31-17.20.38:716][653]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.03.31-17.20.38:726][653]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.03.31-17.20.38:731][653]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.03.31-17.20.38:731][653]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.03.31-17.20.38:731][653]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.03.31-17.20.38:739][653]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.03.31-17.20.38:739][653]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.03.31-17.20.38:749][653]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.03.31-17.20.38:757][653]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.03.31-17.20.38:757][653]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.03.31-17.20.38:764][653]LogD3D11RHI: Shutdown
+[2020.03.31-17.20.38:764][653]LogD3D11RHI: CleanupD3DDevice
+[2020.03.31-17.20.38:832][653]LogExit: Exiting.
+[2020.03.31-17.20.38:863][653]Log file closed, 04/01/20 00:20:38
