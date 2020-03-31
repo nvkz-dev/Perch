@@ -4107,3 +4107,26 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.31-09.41.58:693][701]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
 [2020.03.31-09.41.58:693][701]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
 [2020.03.31-09.41.59:336][709]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2020.03.31-10.00.09:108][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/PerchCharacter" FILE="../../../../../Git/Perch/Content/2DSideScrollerBP/Blueprints/PerchCharacter.uasset" SILENT=true
+[2020.03.31-10.00.09:206][ 61]LogSavePackage: Moving '../../../../../Git/Perch/Saved/PerchCharacterFB19C8AF4129FED767FF54BE381A8067.tmp' to '../../../../../Git/Perch/Content/2DSideScrollerBP/Blueprints/PerchCharacter.uasset'
+[2020.03.31-10.00.09:225][ 61]AssetCheck: New page: Asset Save: PerchCharacter
+[2020.03.31-10.00.09:225][ 61]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/PerchCharacter.PerchCharacter
+[2020.03.31-10.00.10:378][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/PerchCharacter" FILE="../../../../../Git/Perch/Content/2DSideScrollerBP/Blueprints/PerchCharacter.uasset" SILENT=true
+[2020.03.31-10.00.10:467][ 71]LogSavePackage: Moving '../../../../../Git/Perch/Saved/PerchCharacter92F8980C4DB5F9D0C5D0AF8C98744C32.tmp' to '../../../../../Git/Perch/Content/2DSideScrollerBP/Blueprints/PerchCharacter.uasset'
+[2020.03.31-10.00.10:483][ 71]AssetCheck: New page: Asset Save: PerchCharacter
+[2020.03.31-10.00.10:483][ 71]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/PerchCharacter.PerchCharacter
+[2020.03.31-10.00.11:021][ 78]BlueprintLog: New page: Compile PerchCharacter
+[2020.03.31-10.00.11:404][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2020.03.31-10.00.13:101][ 93]LogSlate: Window 'PerchCharacter' being destroyed
+[2020.03.31-10.00.13:215][ 93]LogSlate: Window 'PerchCharacter' being destroyed
+[2020.03.31-10.00.13:245][ 93]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-10.00.13:245][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-10.00.13:363][ 93]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-10.00.13:363][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-10.00.13:431][ 93]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.31-10.00.13:431][ 93]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-10.00.13:431][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-10.00.13:518][ 93]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.03.31-10.00.13:518][ 93]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.03.31-10.00.13:518][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.31-10.00.15:452][111]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
